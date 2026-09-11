@@ -41,3 +41,9 @@ By the end of this repo, you should understand:
 - how product, design, data, and engineering work together
 - what engineers do in real organizations
 - how systems scale and ship to users
+
+## Personal goals
+Through following this roadmap, I hope to:
+- educate myself on the various aspects of a tech company 
+- learn and decide which parts of a tech company I find interesting
+- further develop my skills in whichever topic I find most interesting
